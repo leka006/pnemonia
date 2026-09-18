@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Python cache / testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Machine Learning files
+*.h5
+*.hdf5
+*.keras
+*.pth
+*.pt
+*.ckpt
+
+# Large datasets
+data/
+dataset/
+datasets/
+*.zip
+*.rar
+*.7z
+
+# TensorFlow / Keras
+.keras/
